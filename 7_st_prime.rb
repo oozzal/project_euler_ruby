@@ -18,4 +18,5 @@ loop do
 end
 
 puts num
+# 10473
 

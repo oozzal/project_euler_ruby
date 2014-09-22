@@ -6,4 +6,5 @@ N = 100
 square_of_sum = (1..N).inject(:+)**2
 sum_of_squares = (1..N).map{|n| n**2}.inject(:+)
 puts square_of_sum - sum_of_squares
+#2640
 

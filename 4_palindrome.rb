@@ -20,4 +20,5 @@ end
 
 pal = pals.keys.max
 puts "#{pal} => #{pals[pal]}"
+# 906609
 
